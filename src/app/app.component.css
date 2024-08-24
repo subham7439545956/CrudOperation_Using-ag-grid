@@ -1,0 +1,13 @@
+.ag-theme-alpine {
+    --ag-header-height: 50px; /* Customize header height */
+    --ag-row-height: 60px;    /* Customize row height */
+  }
+  
+  .ag-theme-alpine .ag-header-cell {
+    font-weight: bold; /* Customize header cell font style */
+  }
+  
+  .ag-theme-alpine .ag-cell {
+    padding: 10px; /* Customize cell padding */
+  }
+  
